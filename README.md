@@ -157,5 +157,5 @@ Moreover, with landscape the model works fine, so the solution might be is using
 For this dataset, we have masks (bounding boxes) of the ships. After detection, we can crop the detection from image and 
 try to segment the ship and based on threshold create final bboxes of ship.
 
-Ofcourse, I don't have time for this implementation, but I think the better solution is combination of detection ,segmentation and postprocessing.
+Of course, I don't have time for this implementation, but I think the better solution is combination of detection, segmentation and postprocessing.
 
