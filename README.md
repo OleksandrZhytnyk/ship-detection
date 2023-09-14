@@ -1,4 +1,4 @@
-# Test task for Data Science R&amp;D center Winstars
+# Ship Detection
 
 The competition is [Airbus Ship Detection Challenge](https://www.kaggle.com/competitions/airbus-ship-detection/overview). The goal of the test project is to build a semantic segmentation model.
 
